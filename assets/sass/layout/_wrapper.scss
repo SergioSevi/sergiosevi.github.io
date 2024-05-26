@@ -186,7 +186,7 @@
 				-ms-flex: 2;
 			}
 
-			&:nth-child(n -1) {
+			&:nth-child(2n - 1) {
 				.inner {
 					@include vendor('flex-direction', 'row-reverse');
 					text-align: right;
@@ -235,7 +235,7 @@
 					width: 32em;
 				}
 
-				&:nth-child(n -1) {
+				&:nth-child(2n - 1) {
 					.image {
 						margin: 0 0 _size(element-margin) _size(section-spacing, medium);
 					}
@@ -273,7 +273,7 @@
 					margin: 0 _size(section-spacing, small) _size(element-margin) 0;
 				}
 
-				&:nth-child(n -1) {
+				&:nth-child(2n - 1) {
 					.image {
 						margin: 0 0 _size(element-margin) _size(section-spacing, small);
 					}
