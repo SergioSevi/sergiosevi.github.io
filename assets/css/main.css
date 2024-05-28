@@ -3011,7 +3011,7 @@ input, select, textarea {
 			width: calc(33% - 1.5em);
 		}
 
-			.features article:nth-child(2n) {
+			.features article:nth-child(3n) {
 				margin-right: 0;
 			}
 
