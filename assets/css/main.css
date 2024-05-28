@@ -3008,7 +3008,7 @@ input, select, textarea {
 			background-color: #353849;
 			border-radius: 5px;
 			margin: 1.5em 3em 1.5em 0;
-			width: calc(33%-1em);
+			width: calc(30%-1em);
 		}
 
 			.features article:nth-child(3n) {
@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 			.features article {
 				margin: 1em 2em 1em 0;
-				width: calc(33%-1em);
+				width: calc(30%-1em);
 			}
 
 		}
@@ -3044,7 +3044,7 @@ input, select, textarea {
 			.features article {
 				padding: 1.5em 1.5em 0.1em 1.5em ;
 				margin: 0.875em 1.75em 0.875em 0;
-				width: calc(33% - 0.875em - 1px);
+				width: calc(30% - 0.875em - 1px);
 			}
 
 				.features article .image {
