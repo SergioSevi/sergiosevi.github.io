@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 			.features article {
 				margin: 1em 2em 1em 0;
-				width: calc(33% - 1em);
+				width: calc(33% - 1.5em);
 			}
 
 		}
