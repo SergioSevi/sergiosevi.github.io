@@ -3655,6 +3655,7 @@ input, select, textarea {
 		.wrapper:before {
 			left: 0;
 			top: -6.5em;
+/* 			top: -6.5em; */
 		}
 
 		.wrapper:after {
